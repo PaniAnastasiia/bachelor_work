@@ -209,7 +209,7 @@ export default function Layout({ children, title }) {
               </div>
               <Link href="/">
                 <a className="text-lg font-bold text-black dark:text-white">
-                  eStore1
+                  eStore
                 </a>
               </Link>
             </div>
